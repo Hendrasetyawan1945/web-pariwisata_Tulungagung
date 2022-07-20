@@ -1,0 +1,25 @@
+<nav class="navbar navbar-expand-lg navbar-light fixed-top">
+            <ul class="nav nav-pills" id="nav">
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#Profil">Profil</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Pariwisata pantai</a>
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="#Pantai Popoh">Pantai Popoh</a></li>
+                        <li><a class="dropdown-item" href="#Pantai Coro">Pantai Coro</a></li>
+                        <li><a class="dropdown-item" href="#Pantai Sine">Pantai Sine</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#Pariwisata Sejarah">Pariwisata Sejarah</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#Wisata Kuliner">Wisata Kuliner</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#Lain lain">Lain lain</a>
+                </li>
+            </ul>
+            </ul>
+        </nav>
